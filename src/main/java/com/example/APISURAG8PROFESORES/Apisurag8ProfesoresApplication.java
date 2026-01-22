@@ -8,10 +8,11 @@ public class Apisurag8ProfesoresApplication {
 
 	public static void main(String[] args) {
 
-        //como se usa una clase?
-        //como se crea un objeto?
-        //que es un modificador de acceso?
-        //que es encapsulamiento?
+
+
+        //que es una interface
+        //que es una funcion
+        //como se implementan las funciones de una interface
 
         SpringApplication.run(Apisurag8ProfesoresApplication.class, args);
 	}
