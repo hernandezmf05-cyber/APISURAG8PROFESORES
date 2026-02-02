@@ -17,6 +17,9 @@ public class Profesor {
     private Integer celular;
     private String estadoCivil;
     private String genero;
+    private String perfilProfesional;
+    private String hojaDeVida;
+    private String foto;
     private String idiomasDominados;
     private String estudiosObtenidos;
     private String nivelAcademico;
